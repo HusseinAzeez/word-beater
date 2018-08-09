@@ -1,0 +1,19 @@
+{
+  "name": "speed_typing",
+  "version": "1.0.0",
+  "description": "Speed typing game",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xizors",
+  "license": "ISC"
+}
